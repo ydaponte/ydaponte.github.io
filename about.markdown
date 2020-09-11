@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![]({{site.baseurl}}/assets/images/Me.jpg){:width="200px"}
+![]({{site.baseurl}}/assets/images/me.jpg){:width="200px"}
 
 Hello! My name is Yennifer Santos and I'm a Software Engineer working for Microsoft.
 
