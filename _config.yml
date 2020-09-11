@@ -21,17 +21,12 @@
 title: Data Culture
 description: >- # this means to ignore newlines until "baseurl:"
    A blog dedicated to data topics that aim to share some learnings with data engineers and developers.
-baseurl: "/ydaponteblog" 
-url: "https://ydaponte.github.io" 
+baseurl: "" 
+url: "https://ydaponte.github.io/" 
 github_username:  ydaponte
 
 # Build settings
-theme: jekyll-theme-hacker
-plugins:
-  - jekyll-feed
-
-# Tracker
-analytics: # Google Analytics
+theme: minima
 
 
 # Exclude from processing.
